@@ -18,11 +18,11 @@ O objetivo é extrair dados financeiros, processá-los e mantê-los atualizados 
 
 ## 🧱 Estrutura do Projeto
 
-.
-├── Extract_data_ifinance.ipynb # Extração e envio dos dados ao S3
-├── lambda_function.py # Disparo automático do job do Glue
-├── glue_job.py # Processamento e atualização do catálogo
-├── arquitetura.drawio.png # Diagrama da arquitetura
+.<br>
+├── Extract_data_ifinance.ipynb # Extração e envio dos dados ao S3<br>
+├── lambda_function.py # Disparo automático do job do Glue<br>
+├── glue_job.py # Processamento e atualização do catálogo<br>
+├── arquitetura.drawio.png # Diagrama da arquitetura<br>
 └── README.md
 
 ## 🧰 Tecnologias Principais
